@@ -5,7 +5,6 @@
 import sys
 
 def solve(grades):
-    # Complete this function
     res = []
     nf = 0
     for i in grades:
