@@ -7,7 +7,7 @@ int main(){
     int sum_of_hg[16];
     int temp = 0;
     int a=0,b=0,c=0,d=0,e=0,f=0,g=0;
-    int max=0;
+    int max=-999;
     for(int i=0;i<6;i++)
         for(int j=0;j<6;j++)
             cin>>main_arr[i][j];
